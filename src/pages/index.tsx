@@ -1,5 +1,11 @@
+import CurrentReport from "@/components/Home/CurrentReport";
+
 export default function Home() {
   return (
-    <p>Finance App</p>
+    <div className="flex">
+      <div className="w-full md:w-1/2">
+        <CurrentReport />
+      </div>
+    </div>
   );
 }

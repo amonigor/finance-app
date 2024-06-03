@@ -60,6 +60,6 @@
   }
 
   html {
-    @apply text-tcolor-1 bg-bcolor-1;
+    @apply text-tcolor-1 bg-bcolor-1 font-medium text-sm;
   }
 }
