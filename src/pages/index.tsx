@@ -1,5 +1,4 @@
 import CurrentReport from "@/components/Home/CurrentReport";
-import PreviousReport from "@/components/Home/PreviousReport";
 
 export default function Home() {
   return (
